@@ -2,7 +2,6 @@
 
 Experienced with:  
   -C Programming Language  
-  -Assembler Language (MASM)  
   -Win32 API  
   -Windows Native API (NTAPI)  
   -Windows Kernel Mode Programming  
